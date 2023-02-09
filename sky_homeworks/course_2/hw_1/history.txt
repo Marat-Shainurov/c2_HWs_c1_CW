@@ -1,0 +1,9 @@
+Marat: 10
+Marat: 20
+Marat: 30
+Марат: 0
+Марат: 50
+Marat: 10
+Marat: 10
+marat: 10
+Marat: 40
